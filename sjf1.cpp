@@ -91,6 +91,5 @@ int main()
     waiting_time(WT_array, BT_array);
     TAT(TAT_array, BT_array, WT_array);
     Gantt_chart(WT_array,Process_ID);
-    
     return 0;
 }
