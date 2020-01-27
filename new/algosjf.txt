@@ -1,0 +1,3 @@
+Sort all the process according to the arrival time.
+Then select that process which has minimum arrival time and minimum Burst time.
+After completion of process make a pool of process which after till the completion of previous process and select that process among the pool which is having minimum Burst time.
